@@ -1,0 +1,86 @@
+h1{
+    text-align: center;
+    color: purple;
+    background-color: rgb(157, 104, 183);
+    border-radius: 20px;
+    border: solid red;
+}
+b{
+    color: purple;
+    background-color: yellow;
+}
+i{
+    color: red;
+}
+h2{
+    color: green;
+}
+.bus{
+    color: black;
+    background-color: white;
+}
+.dad{
+    background-color: white;
+    color: black;
+}
+.soli{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+
+}
+img{
+    width: 500px;
+}
+iframe{
+    text-align: center;
+}
+.si{
+    background-color: white;
+    color: green;
+}
+ul {
+    list-style: circle;
+}
+button{
+    height: 30px;
+    width: 300px;
+    background-color: dodgerblue;
+    color: white;
+}
+.bax{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+.dee{
+    background-color: green;
+    color: white;
+}
+table, th, td {
+    border: 1px solid gray;
+    border-collapse: collapse;
+  }
+  .zi{
+    background-color: green;
+    text-align: center;
+  }
+  .sp{
+    background-color: blue;
+    text-align: center;
+  }
+  .lo{
+    background-color: red;
+    color: white;
+    text-align: center;
+  }
+  td{
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
+  .fy{
+    background-color: red;
+    color: white;
+    text-align: center;
+  }
